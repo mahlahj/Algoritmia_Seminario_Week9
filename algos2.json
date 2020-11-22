@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "origen_x": 10,
+        "origen_y": 20,
+        "destino_x": 100,
+        "destino_y": 200,
+        "velocidad": 0,
+        "red": 255,
+        "green": 0,
+        "blue": 0
+    },
+    {
+        "id": 2,
+        "origen_x": 20,
+        "origen_y": 30,
+        "destino_x": 200,
+        "destino_y": 300,
+        "velocidad": 0,
+        "red": 255,
+        "green": 255,
+        "blue": 0
+    }
+]
